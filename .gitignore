@@ -14,3 +14,4 @@ htmlcov
 
 # Editors
 .idea
+dev_secrets/
